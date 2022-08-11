@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+Just started the team so there is not mutch here yet but you can see our gaming devision at https://sites.google.com/view/carrotezgames/home
 <!--
 **ObviousTeam/obviousteam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
